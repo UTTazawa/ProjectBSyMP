@@ -16,4 +16,4 @@ This folder contains a set of codes to reproduce the results of "Numerical simul
 
 Ukyo T. Tazawa, Takuya Isomura
 
-_bioRxiv_ preprint bioRxiv:2024.05.15.593712. https://doi.org/10.1101/2024.05.15.593712
+_Neural Networks_ 195, 108311 (2026). https://doi.org/10.1016/j.neunet.2025.108311
